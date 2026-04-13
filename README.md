@@ -1,6 +1,6 @@
 ****LIVE, realtime 360 Camera viewer and controller, in browser.****
 
-Great for use as a PTZ in a live event setting that can fit in odd-ball spots, or to have one camera get multiple different angles at the same time *live!*, or as a great shorter-distance "spy" camera.
+Great for use as a PTZ in a live event setting that can fit in odd-ball spots, or to have one camera get multiple different angles at the same time, *live!*, or as a great shorter-distance "spy" camera.
 
 Utilizes the wonderful "Photo Sphere Viewer" Javascript library. https://github.com/mistic100/Photo-Sphere-Viewer
 
