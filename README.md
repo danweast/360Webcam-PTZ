@@ -17,7 +17,7 @@ How to use:
     - IF CAMERA HAS HDMI (or such) OUTPUT:
         - Camera output will need to be brought in to your PC with a capture card, such that you now have a UVC input.
         - If any social chat platform can see the camera, you're in good shape.
-        - Does not currently support Decklink!
+        - Does not currently support Decklink inputs!
     - IF CAMERA HAS "Webcam" OUTPUT:
         - For short distances, plug USB directly to PC and continue.
         - If long distances are required, conversion from UVC to HDMI (or such) is probably required. Use a capture card again to connect to PC, like above.
