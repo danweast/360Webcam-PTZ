@@ -13,13 +13,14 @@ Prerequisites:
 
 How to use:
 1.  Set 360 camera to output "equirectangular" 360° video
-2a.  IF CAMERA HAS HDMI (or such) OUTPUT:
-    - Camera output will need to be brought in to your PC with a capture card, such that you now have a UVC input.
-    - If any social chat platform can see the camera, you're in good shape.
-    - Does not currently support Decklink!
-2b.  IF CAMERA HAS "Webcam" OUTPUT:
-    - For short distances, plug USB directly to PC and continue.
-    - If long distances are required, conversion from UVC to HDMI (or such) is probably required. Use a capture card again to connect to PC, like above.
+2.  Input to PC.
+    - IF CAMERA HAS HDMI (or such) OUTPUT:
+        - Camera output will need to be brought in to your PC with a capture card, such that you now have a UVC input.
+        - If any social chat platform can see the camera, you're in good shape.
+        - Does not currently support Decklink!
+    - IF CAMERA HAS "Webcam" OUTPUT:
+        - For short distances, plug USB directly to PC and continue.
+        - If long distances are required, conversion from UVC to HDMI (or such) is probably required. Use a capture card again to connect to PC, like above.
 3.  Open https://360.danieleastman.com/ in your browser of choice.
 4.  It will request your video input from the 360 camera, hit allow for as long as desired.
 5.  Use your mouse "scroll" to zoom in or out. Hold "left click" and drag to reposition.
